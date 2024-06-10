@@ -1,8 +1,8 @@
 ---
 title: Monitoring
-emoji: 😻
+emoji: 📊
 colorFrom: purple
-colorTo: gray
+colorTo: green
 sdk: gradio
 sdk_version: 4.18.0
 app_file: app.py
